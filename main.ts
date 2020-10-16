@@ -41,5 +41,4 @@ basic.forever(function () {
         sprite.turn(Direction.Left, 90)
         basic.pause(100)
     }
-    basic.clearScreen()
 })
